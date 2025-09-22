@@ -1,4 +1,5 @@
 #!/bin/bash
+#Exercise 6
 
 output_file="system_report.txt"
 external_ip()
