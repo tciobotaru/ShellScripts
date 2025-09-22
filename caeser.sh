@@ -1,4 +1,5 @@
 #!/bin/bash
+#Exercise 4
 shift_amount=0
 input_file=""
 output_file=""
