@@ -1,4 +1,5 @@
 #!/bin/sh
+#Exercise 5 
 input_file=""
 output_file=""
 operations=()
