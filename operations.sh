@@ -1,4 +1,6 @@
 #!/bin/bash
+
+#Exercise 2
 operation=""
 numbers=()
 debug_mode=false
