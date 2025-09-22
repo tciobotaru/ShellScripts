@@ -1,4 +1,5 @@
 FIB=$1
+#Exercise 1
 
 if [[ -z $1 ]]|| [[ ! $1 =~ ^[0-9]+$ ]]; then
 echo "Invalid arguments provide a positive integer"
